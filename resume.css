@@ -1,0 +1,24 @@
+
+
+.base{
+    border: 1px solid blue;
+	width: 700px;
+}
+.title{
+    background-color: lightblue;
+    text-align: center;
+}
+.title2{
+    background-color: lightblue;
+	text-align: center;
+}
+.title3{
+	background-color: lightblue;
+	text-align: center;
+}
+li {
+	list-style-type:none;
+}
+.email a{
+    font-size: 20px;	
+}
